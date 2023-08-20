@@ -19,7 +19,6 @@ public class pattern_1
 				else{
 					System.out.printf("   ");
 				}
-				//System.out.println();
 			}
 			System.out.println();
 		}
